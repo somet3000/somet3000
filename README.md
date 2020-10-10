@@ -1,4 +1,4 @@
-### Hi, I'm Karthik! Nice to meet you! Welcome to my Github! 🌴😎
+### Hi, I'm Karthik! Nice to meet you! Welcome to my GitHub! 🌴😎
 
 ---
 
