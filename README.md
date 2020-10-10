@@ -1,26 +1,9 @@
-### Hi! I'm Karthik! Nice to meet you! 
+### Hi, I'm Karthik! Nice to meet you! Welcome to my Github! 🌴😎
 
 ---
 
-My name is Karthik Guruvayurappan (yes, it's 14 letters long)! I'm currently a sophomore at UC San Diego, double majoring in Data Science and General Biology. 
+My name is Karthik Guruvayurappan (yes, my last name is 14 letters long!). I'm currently a sophomore at UC San Diego, double majoring in Data Science and General Biology. Feel free to check out some of the cool projects I am currently working on! 
 
 --- 
 
 Here's some useful links about me: [LinkedIn](https://www.linkedin.com/in/karthik-guruvayurappan-172747163/)
-
-
-
-<!--
-**somet3000/somet3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
