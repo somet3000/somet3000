@@ -2,7 +2,7 @@
 
 ---
 
-My name is Karthik Guruvayurappan (yes, my last name is 14 letters long!). I'm currently a sophomore at UC San Diego, double majoring in Data Science and General Biology. Feel free to check out some of the cool projects I am currently working on! 
+My name is Karthik Guruvayurappan (yes, my last name is 14 letters long!). I'm currently a sophomore at UC San Diego, double majoring in Data Science and General Biology. Feel free to chill and check out some of the cool projects I am currently working on! 
 
 --- 
 
