@@ -6,4 +6,4 @@ My name is Karthik Guruvayurappan (yes, my last name is 14 letters long!). I'm c
 
 --- 
 
-Here's some useful links about me: [LinkedIn](https://www.linkedin.com/in/karthik-guruvayurappan-172747163/) | [Personal Website](https://https://somet3000.github.io/)
+Here's some useful links about me: [LinkedIn](https://www.linkedin.com/in/karthik-guruvayurappan-172747163/) | [Personal Website](https://somet3000.github.io/)
