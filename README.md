@@ -2,7 +2,7 @@
 
 ---
 
-My name is Karthik Guruvayurappan. I'm currently a rising junior at UC San Diego, double majoring in Data Science and General Biology.
+My name is Karthik Guruvayurappan. I'm currently a junior at UC San Diego, double majoring in Data Science and General Biology.
 
 --- 
 
