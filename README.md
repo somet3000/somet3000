@@ -1,4 +1,4 @@
-### Hi, I'm Karthik! Welcome to my GitHub! 🌴😎
+### Hi, I'm Karthik! Welcome to my GitHub!
 
 ---
 
