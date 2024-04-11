@@ -1,5 +1,7 @@
-### Hi, I'm Karthik! Welcome to my GitHub!
-
----
-
-I am currently a first-year graduate student in the Tri-Institutional PhD program in Computational Biology and Medicine (joint between Weill Cornell Medical College, Memorial Sloan Kettering Cancer Center, Rockefeller University, and Cornell University). I was previously an undergraduate student at UC San Diego where I double majored in Data Science and General Biology. I also worked in the McVicker Lab at the Salk Institute for Biological Studies. My research interests include developing novel statistical methods to understanding gene regulation. For fun, I enjoy playing tennis, running, strumming the guitar, and watching football/basketball!
+Karthik is a [PhD student](https://compbio.triiprograms.org/) at [Cornell University](https://www.cornell.edu/)
+studying computational biology. Karthik completed his bachelor's degrees in 
+[data science](https://datascience.ucsd.edu/) and (biology)[https://biology.ucsd.edu/] at 
+[University of California, San Diego](https://ucsd.edu/). As an undergraduate,
+Karthik developed statistical methods for analyzing CRISPR-based genome perturbation data, advised by 
+[Graham McVicker](https://mcvicker.salk.edu/). For fun, Karthik enjoys watching sports,
+playing the guitar, and exploring New York City.
